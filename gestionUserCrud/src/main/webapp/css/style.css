@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+ul.nav {
+  padding-left: 0px;
+  background-color: #3D99CE;
+  text-align: center;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+ul.nav > li:hover {
+  background-color: #2779BF;
+}
+ul.nav > li > a {
+  color: white;
+  text-decoration: none;
+}
+
+h2{
+	
+	color: red;
+	text-align:center;
+	
+}
+
+
+span{
+	color: red;
+}
+#mytable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  background-color: #000000;
+  color: white;
+}
+
+.erreur{
+	color:red;
+}
+
+.succes{
+	color:green;
+}
+
+#connexion{
+	color: blue;
+	text-align: center;
+}
+
+#formlogin{
+	text-align:"center";
+}
